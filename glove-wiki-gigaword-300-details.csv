@@ -42,7 +42,7 @@ highlight,accentuate,accentuate,correct
 hastily,hurriedly,hurriedly,correct
 temperate,mild,mild,correct
 grin,smile,smile,correct
-verbally,orally,fittingly,guess
+verbally,orally,orally,correct
 physician,doctor,doctor,correct
 essentially,basically,basically,correct
 keen,sharp,sharp,correct
@@ -52,7 +52,7 @@ slowly,gradually,gradually,correct
 built,constructed,constructed,correct
 tasks,jobs,jobs,correct
 unlikely,improbable,improbable,correct
-halfheartedly,apathetically,bipartisanly,guess
+halfheartedly,apathetically,unconventionally,wrong
 annals,chronicles,chronicles,correct
 wildly,furiously,furiously,correct
 hailed,acclaimed,remembered,wrong
