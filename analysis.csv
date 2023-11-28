@@ -1,2 +1,10 @@
-Model Name,Vocabulary Size,Number of Correct Labels,Number of Valid Answers,Model Accuracy
+Model Name,Vocabulary Size,Number of Correct Labels,Number of Valid Answers,"Model Accuracy 
+"
 word2vec-google-news-300,3000000,70,79,0.8860759493670886
+
+glove-wiki-gigaword-300,400000,70,78,0.8974358974358975
+
+glove-twitter-200,1193514,42,69,0.6086956521739131
+
+glove-twitter-25,1193514,33,69,0.4782608695652174
+
